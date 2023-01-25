@@ -1,5 +1,5 @@
 # DataEngineeringEHRs
-Ian Hay and Professor John Rachlin
+Ian Hay and Professor John Rachlin  
 December 7th, 2022
 
 ---
